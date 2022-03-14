@@ -27,32 +27,9 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
-  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=511j&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 
