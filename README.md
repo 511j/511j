@@ -20,8 +20,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=onedark">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=511j&count_private=true&show_icons=true&theme=onedark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=511j&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=onedark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=511j&hide=php&theme=onedark" />
 </a>
 </div>
 
