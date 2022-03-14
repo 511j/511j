@@ -16,7 +16,7 @@
 <br/>  
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=511j&theme=onedark" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=511j&show_icons=true)
 
 
 </td></tr></table>  
