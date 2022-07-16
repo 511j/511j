@@ -56,7 +56,7 @@
 If you want to reach me.
 
 <a href="https://instagram.com/ilord4tb">
- <img align="left" alt="hotmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" />
+ <img align="left" alt="hotmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg"/>
 </a>
 <a href="https://twitter.com/mf6f">
   <img align="left" alt="Telegram" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" />
