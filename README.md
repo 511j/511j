@@ -75,7 +75,7 @@ If you want to reach me.
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   </a>
   </p>
 
