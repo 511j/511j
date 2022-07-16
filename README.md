@@ -13,7 +13,7 @@
 
 ### - I'm 16 years  From 🇸🇦
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/ea/70/6a/ea706ad43feb062064bcbd6013761e74.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://img.izismile.com/img/img6/20131028/1000/the_coolest_msdos_viruses_ever_created_10.gif">
 
 </br>
 </br>
@@ -75,7 +75,7 @@ If you want to reach me.
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=511j&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?511j=anuraghazra&layout=radical"/>
   </a>
   </p>
 
