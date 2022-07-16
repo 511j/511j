@@ -44,32 +44,6 @@
 
 
 
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://img.izismile.com/img/img6/20131028/1000/the_coolest_msdos_viruses_ever_created_14.gif">
-
-
-If you want to reach me.
-
-<a href="https://instagram.com/ilord4tb">
- <img align="left" alt="hotmail" width="130" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg"/>
-</a>
-<a href="https://twitter.com/mf6f">
-  <img align="left" alt="Telegram" width="150" hight="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" />
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 
 
